@@ -6,5 +6,7 @@ It has functionality for 2 players
 Operates on a number pad layout:
 
 789 = top row
+
 456 = middle row
+
 123 = bottom row
