@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-This is a simple Tic Tac Toe Game that runs in the console window.
+This is a simple Tic Tac Toe Game written in Python that runs in the console window.
 
 It has functionality for 2 players
 
